@@ -351,7 +351,7 @@ public class MainActivity extends Activity {
 		menu.add(Menu.NONE, Constants.MENU_ID_ABOUT, Menu.NONE, R.string.menu_about)
 		.setIcon(android.R.drawable.ic_menu_info_details);
 		menu.add(Menu.NONE, Constants.MENU_ID_CHANGELOG, Menu.NONE, R.string.menu_changelog)
-		.setIcon(R.drawable.button_clog);
+		.setIcon(android.R.drawable.ic_menu_recent_history);
 		return true;
 	}
 
