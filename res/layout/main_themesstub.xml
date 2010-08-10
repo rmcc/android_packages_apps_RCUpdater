@@ -80,8 +80,8 @@
 			android:text="@string/screenshot_button_theme_text"
 			android:layout_marginTop="20sp"
 		    style="@style/TextAppearance.Button"
-                android:drawableLeft="@drawable/button_gallery"
-                android:onClick="ListenerScreenshotThemes"/>
+            android:drawableLeft="@android:drawable/ic_menu_slideshow"
+            android:onClick="ListenerScreenshotThemes"/>
 		<Button
 	    	android:id="@+id/show_theme_changelog_button"
 			android:layout_width="wrap_content"
