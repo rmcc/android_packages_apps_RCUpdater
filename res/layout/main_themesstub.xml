@@ -71,7 +71,7 @@
 			android:text="@string/choose_available_theme_text"
 			android:layout_marginTop="20sp"
 		    style="@style/TextAppearance.Button"
-                android:drawableLeft="@drawable/download"
+                android:drawableLeft="@andoird:drawable/ic_menu_refresh"
                 android:onClick="ListenerDownloadThemeButton"/>
 		<Button
 	    	android:id="@+id/theme_screenshots_button"
