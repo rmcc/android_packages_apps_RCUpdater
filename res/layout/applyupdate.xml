@@ -37,7 +37,7 @@
 	    	android:layout_height="wrap_content"
 			android:layout_weight="0"
     		style="@style/TextAppearance.Button"
-                android:drawableLeft="@drawable/apply_now"/>
+            android:drawableLeft="@android:drawable/ic_menu_agenda"/>
 	    <View
 	    	android:layout_width="wrap_content"
 	    	android:layout_height="fill_parent"
