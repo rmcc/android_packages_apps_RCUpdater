@@ -49,6 +49,7 @@
 	    	android:layout_height="wrap_content"
 			android:layout_weight="0"
     		style="@style/TextAppearance.Button"
-                android:drawableLeft="@drawable/apply_later"/>
+                android:drawableLeft="@android:drawable/ic_menu_close_clear_cancel
+"/>
     </LinearLayout>
 </LinearLayout>
