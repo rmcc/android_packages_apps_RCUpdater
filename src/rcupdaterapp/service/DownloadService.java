@@ -405,7 +405,7 @@ public class DownloadService extends Service {
 		//Only update the Notification and DownloadLayout, when no downloadcancel is in progress, so the notification will not pop up again
         if (!prepareForDownloadCancel) {
 			NotificationManager mNotificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
-			Notification mNotification = new Notification(R.drawable.icon_notification, res.getString(R.string.notification_tickertext), System.currentTimeMillis());
+			Notification mNotification = new Notification(android.R.drawable.ic_popup_sync, res.getString(R.string.notification_tickertext), System.currentTimeMillis());
 			mNotification.flags = Notification.FLAG_NO_CLEAR;
 			mNotification.flags = Notification.FLAG_ONGOING_EVENT;
 			RemoteViews mNotificationRemoteView = new RemoteViews(getPackageName(), R.layout.notification);

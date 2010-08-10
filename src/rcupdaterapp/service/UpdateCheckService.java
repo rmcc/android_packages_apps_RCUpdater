@@ -143,7 +143,7 @@ public class UpdateCheckService extends Service {
 				PendingIntent contentIntent = PendingIntent.getActivity(this, 0, i, PendingIntent.FLAG_ONE_SHOT);
 
                 Resources res = getResources();
-				Notification notification = new Notification(R.drawable.icon_notification,
+				Notification notification = new Notification(android.R.drawable.ic_popup_sync,
 									res.getString(R.string.not_new_updates_found_ticker),
 									System.currentTimeMillis());
 
