@@ -108,7 +108,7 @@
 			android:layout_marginTop="20sp"
                 android:visibility="gone"
 		    style="@style/TextAppearance.Button"
-                android:drawableLeft="@drawable/check_now"
+                android:drawableLeft="@android:drawable/ic_menu_refresh"
                 android:onClick="checkForUpdates"/>
 		<TextView
 		    android:id="@+id/last_theme_update_check"

@@ -136,7 +136,7 @@
 					android:layout_marginTop="20sp"
 				    style="@style/TextAppearance.Button"
                         android:visibility="gone"
-                        android:drawableLeft="@drawable/check_now"
+                        android:drawableLeft="@android:drawable/ic_menu_refresh"
                         android:onClick="checkForUpdates"/>
 				<TextView
 				    android:id="@+id/last_rom_update_check"
@@ -207,7 +207,7 @@
 					android:layout_height="wrap_content"
 					android:text="@string/delete_updates_text"
 				    style="@style/TextAppearance.Button"
-                        android:drawableLeft="@drawable/check_now"
+                        android:drawableLeft="@andoird:drawable/ic_menu_refresh"
                         android:onClick="ListenerDeleteUpdatesButton"/>
 			</LinearLayout>
 		</ScrollView>
