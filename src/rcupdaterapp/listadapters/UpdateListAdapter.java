@@ -43,9 +43,9 @@ public class UpdateListAdapter<T> extends ArrayAdapter<T> {
     		wrapper.getTextView().setText(info.getName());
     	
         if (info.getBranchCode().equalsIgnoreCase(Constants.UPDATE_INFO_BRANCH_EXPERIMENTAL))
-    		wrapper.getImage().setImageResource(R.drawable.experimental);
+    		wrapper.getImage().setImageResource(android.R.drawable.ic_menu_manage);
     	else
-    		wrapper.getImage().setImageResource(R.drawable.stable);
+    		wrapper.getImage().setImageResource(android.R.drawable.ic_menu_myplaces);
         return row;
    } 
 }
