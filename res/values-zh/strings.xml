@@ -75,8 +75,8 @@
 
 	<string name="toast_uninstall_old_Version">要继续执行，您需要先卸载旧版程序！</string>
 
-	<string name="stable_description"> = 稳定版</string>
-	<string name="experimental_description"> = 试验版</string>
+	<string name="stable_description">稳定版</string>
+	<string name="experimental_description">试验版</string>
 
 	<string name="changelog_progress_title">请稍候 ...</string>
 	<string name="changelog_progress_body">正在尝试获取changelog.xml</string>

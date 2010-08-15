@@ -73,8 +73,8 @@ STARTA SJÄLV OM I ÅTERSTÄLLNINGSLÄGE INNAN DU INSTALLERAR UPPDATERINGEN OM D
 
 	<string name="toast_uninstall_old_Version">Du måste avinstallera tidigare version av programmet för att kunna fortsätta</string>
 
-	<string name="stable_description"> = Stabil</string>
-	<string name="experimental_description"> = Experimentell</string>
+	<string name="stable_description">Stabil</string>
+	<string name="experimental_description">Experimentell</string>
 
 	<string name="changelog_progress_title">Vänta ...</string>
 	<string name="changelog_progress_body">Försöker hämta changelog.xml</string>

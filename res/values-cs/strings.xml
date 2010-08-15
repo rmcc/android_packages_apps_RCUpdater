@@ -72,8 +72,8 @@
 
 	<string name="toast_uninstall_old_Version">Musíte odinstalovat všechny staré verze aplikace abyste mohli pokračovat!</string>
 
-	<string name="stable_description"> = Stabilní</string>
-	<string name="experimental_description"> = Testovací</string>
+	<string name="stable_description">Stabilní</string>
+	<string name="experimental_description">Testovací</string>
 
 	<string name="changelog_progress_title">Prosím čekejte ...</string>
 	<string name="changelog_progress_body">Zkouším stáhnout changelog.xml</string>

@@ -66,8 +66,8 @@ POR FAVOR REINCIE EM MODO DE RECUPERAÇÃO MANUALMENTE *ANTES* DE APLICAR A ATUA
 
 	<string name="toast_uninstall_old_Version">Você tem que desinstalar qualquer Versão Antiga do App para continuar!</string>
 
-	<string name="stable_description"> = Estável</string>
-	<string name="experimental_description"> = Experimental</string>
+	<string name="stable_description">Estável</string>
+	<string name="experimental_description">Experimental</string>
 
 	<string name="changelog_progress_title">Aguarde, Por Favor ...</string>
 	<string name="changelog_progress_body">Tentando baixar a Lista de Mudanças.xml</string>
