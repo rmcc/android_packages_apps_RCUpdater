@@ -138,37 +138,37 @@ POR FAVOR, REINICIA EN MODO RECOVERY DE FORMA MANUAL *ANTES* DE INSTALAR ESTA AC
 	<string name="featured_themes_dialog_neg">No</string>
 
 	<!-- .service.* Strings -->
-	<string name="no_updates_found">No updates found</string>
-	<string name="not_new_updates_found_ticker">New updates found!</string>
-	<string name="not_new_updates_found_title">New updates found</string>
-	<string name="exception_while_downloading">An error occurred while trying to download an update</string>
+	<string name="no_updates_found">No hay nuevas actualizaciones</string>
+	<string name="not_new_updates_found_ticker">Nuevas actualizaciones disponibles!</string>
+	<string name="not_new_updates_found_title">Nuevas actualizaciones disponibles!</string>
+	<string name="exception_while_downloading">Se ha producido un error intentando descargar la actualización</string>
 
-	<string name="not_update_check_error_ticker">Check for updates failed</string>
-	<string name="not_update_check_error_title">Unable to check for new updates</string>
+	<string name="not_update_check_error_ticker">Comprobación de actualizaciones fallida</string>
+	<string name="not_update_check_error_title">No es posible comprobar la lista de actualizaciones</string>
 
-	<string name="not_update_download_error_ticker">An error occurred while downloading the update</string>
-	<string name="not_update_download_error_title">An error occurred while downloading the update</string>
+	<string name="not_update_download_error_ticker">Se ha producido un error intentando descargar la actualización</string>
+	<string name="not_update_download_error_title">Se ha producido un error intentando descargar la actualización</string>
 
-	<string name="not_update_downloaded_ticker">Update downloaded</string>
-	<string name="not_update_downloaded_title">Ipdate downloaded</string>
-	<string name="not_update_downloaded_body">{0} is ready to install</string>
+	<string name="not_update_downloaded_ticker">Actualización descargada</string>
+	<string name="not_update_downloaded_title">Actualización descargada</string>
+	<string name="not_update_downloaded_body">{0} está lista para ser descargada</string>
 
-	<string name="download_info_filename">Filename: </string>
-	<string name="download_info_mirror">Mirror: </string>
-	<string name="download_info_downloading">Downloading...</string>
-	<string name="download_info_speed">Speed: </string>
-	<string name="download_info_remaining_time">Remaining Time: </string>
+	<string name="download_info_filename">Nombre de archivo: </string>
+	<string name="download_info_mirror">Servidor: </string>
+	<string name="download_info_downloading">Descargando...</string>
+	<string name="download_info_speed">Velocidad: </string>
+	<string name="download_info_remaining_time">Tiempo restante: </string>
 
-	<string name="confirm_delete_update_folder_dialog_message">Delete Update Folder?</string>
-	<string name="confirm_delete_update_folder_dialog_yes">Delete All Updates</string>
-	<string name="confirm_delete_update_folder_dialog_neutral">Delete selected Update</string>
-	<string name="confirm_delete_update_folder_dialog_no">Cancel</string>
-	<string name="delete_single_update_success_message">Update {0} deleted</string>    
+	<string name="confirm_delete_update_folder_dialog_message">Borrar la carpeta de actualizaciones?</string>
+	<string name="confirm_delete_update_folder_dialog_yes">Borrar todas las actualizaciones</string>
+	<string name="confirm_delete_update_folder_dialog_neutral">Borrar la actualización seleccionada</string>
+	<string name="confirm_delete_update_folder_dialog_no">Cancelar</string>
+	<string name="delete_single_update_success_message">Actualización {0} borrada</string>    
 	<string name="minutes">min</string>
-	<string name="seconds">sec</string>
+	<string name="seconds">seg</string>
 	
-	<string name="unable_to_download_file">Unable to download the update file from any mirror</string>
-	<string name="md5_verification_failed">MD5 verification failed</string>
+	<string name="unable_to_download_file">Imposible descargar actualización de ningún servidor</string>
+	<string name="md5_verification_failed">Verificación MD5 fallida</string>
 
 	<!-- Preferences Strings -->
 	<string name="p_update_check_freq_title">Update Checking frequency</string>
