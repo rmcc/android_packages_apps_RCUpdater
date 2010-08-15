@@ -127,7 +127,7 @@
 					android:text="@string/changelog_button_text"
 					android:layout_marginTop="20sp"
 				    style="@style/TextAppearance.Button"
-                        android:drawableLeft="@drawable/icon"
+                        android:drawableLeft="@android:drawable/ic_menu_recent_history"
                         android:onClick="ListenerUpdateChangelogButton"/>
 				<TextView
 			    	android:id="@+id/check_now_update_chooser_text_updates"
