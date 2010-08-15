@@ -76,8 +76,8 @@
 					android:layout_marginTop="20sp"
 					android:id="@+id/stable_experimental_description_container_updates">
 					<ImageView
-						android:layout_height="wrap_content"
-						android:layout_width="wrap_content"
+						android:layout_height="25px"
+						android:layout_width="25px"
                         android:src="@android:drawable/ic_menu_myplaces"/>
 					<TextView
 						android:layout_width="fill_parent"
@@ -89,8 +89,8 @@
 						android:layout_marginLeft="5px"
 						android:layout_marginRight="20px"/>
 					<ImageView
-						android:layout_width="wrap_content"
-						android:layout_height="wrap_content"
+						android:layout_width="25px"
+						android:layout_height="25px"
                             android:src="@android:drawable/ic_menu_manage"/>
 					<TextView
 						android:layout_width="fill_parent"
