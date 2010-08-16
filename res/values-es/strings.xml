@@ -43,11 +43,11 @@
 	<string name="menu_edit_theme">Editar servidor de temas</string>
 	<string name="menu_delete_theme">Borra servidor de temas</string>
 	<string name="menu_enable_theme">Habilita servidor de temas</string>
-	<string name="menu_disable_theme">Desabilita servidor de temas</string>
+	<string name="menu_disable_theme">Deshabilita servidor de temas</string>
 	<string name="menu_delete_all_themes">Borra todos los servidores de temas</string>
 	<string name="menu_delete_all_featured_themes">Borra todos los servidores de temas destacados</string>
-	<string name="menu_disable_all_themes">Desabilita todos los servidores de temas</string>
-	<string name="menu_disable_all_featured_themes">Desabilita todos los servidores de temas destacados</string>
+	<string name="menu_disable_all_themes">Deshabilita todos los servidores de temas</string>
+	<string name="menu_disable_all_featured_themes">Deshabilita todos los servidores de temas destacados</string>
 	<string name="menu_enable_all_themes">Habilita todos los servidores de temas</string>
 	<string name="menu_enable_all_featured_themes">Habilita todos los servidores de temas destacados</string>
 	
@@ -171,116 +171,116 @@ POR FAVOR, REINICIA EN MODO RECOVERY DE FORMA MANUAL *ANTES* DE INSTALAR ESTA AC
 	<string name="md5_verification_failed">Verificación MD5 fallida</string>
 
 	<!-- Preferences Strings -->
-	<string name="p_update_check_freq_title">Update Checking frequency</string>
-	<string name="p_update_check_freq_summary">Set update checking frequency</string>
+	<string name="p_update_check_freq_title">Frecuencia de comprobación de actualizaciones</string>
+	<string name="p_update_check_freq_summary">Selecciona la frecuencia de comprobación de actualizaciones</string>
 
-	<string name="p_display_older_rom_versions_title">Display All Rom Updates</string>
-	<string name="p_display_older_rom_versions_summary">Display all Rom updates, including old versions</string>
-	<string name="p_display_older_rom_versions_changed">Please check for updates again, to update the List of available updates</string>
+	<string name="p_display_older_rom_versions_title">Mostrar todas las actualizaciones (ROM)</string>
+	<string name="p_display_older_rom_versions_summary">Mostrar todas las actualizaciones, incluyendo versiones viejas (ROM)</string>
+	<string name="p_display_older_rom_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
 
-	<string name="p_allow_experimental_rom_versions_title">Display Experimental Roms</string>
-	<string name="p_allow_experimental_rom_versions_summary">Display Rom updates that are Experimental (non-stable)</string>
-	<string name="p_allow_experimental_rom_versions_changed">Please check for updates again, to update the List of available updates</string>
+	<string name="p_allow_experimental_rom_versions_title">Mostrar ROMs experimentales</string>
+	<string name="p_allow_experimental_rom_versions_summary">Mostrar las actualizaciónes de ROMs que son experimentales (No estables)</string>
+	<string name="p_allow_experimental_rom_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
 
-	<string name="p_display_older_theme_versions_title">Display All Theme Updates</string>
-	<string name="p_display_older_theme_versions_summary">Display all Theme updates, including old versions</string>
-	<string name="p_display_older_theme_versions_changed">Please check for updates again, to update the List of available updates</string>
+	<string name="p_display_older_theme_versions_title">Mostrar todas las actualizaciones (Temas)</string>
+	<string name="p_display_older_theme_versions_summary">Mostrar todas las actualizaciones, incluyendo versiones viejas (Temas)</string>
+	<string name="p_display_older_theme_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
 
-	<string name="p_allow_experimental_theme_versions_title">Display Experimental Themes</string>
-	<string name="p_allow_experimental_theme_versions_summary">Display Theme updates that are Experimental (non-stable)</string>
-	<string name="p_allow_experimental_theme_versions_changed">Please check for updates again, to update the List of available updates</string>
+	<string name="p_allow_experimental_theme_versions_title">Mostrar temas experimentales</string>
+	<string name="p_allow_experimental_theme_versions_summary">Mostrar las actualizaciónes de temas que son experimentales (No estables)</string>
+	<string name="p_allow_experimental_theme_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
 
-	<string name="p_do_nandroid_backup_title">Nandroid Backup</string>
-	<string name="p_do_nandroid_backup_summary">Create Nandroid backup before applying update?</string>
+	<string name="p_do_nandroid_backup_title">Copia de seguridad Nandroid</string>
+	<string name="p_do_nandroid_backup_summary">¿Desea realizar una copia de seguridad Nandroid antes de instalar la actualización?</string>
 
-	<string name="p_notification_ringtone_title">Notification Ringtone</string>
-	<string name="p_notification_ringtone_summary">Choose a ringtone for Updater alerts</string>
+	<string name="p_notification_ringtone_title">Sonido de notificación</string>
+	<string name="p_notification_ringtone_summary">Selecciona un tono para las notificaciones</string>
 
-	<string name="p_update_file_url_title">Rom Update Server</string>
-	<string name="p_update_file_url_summary">Change the Rom Update Server</string>
-	<string name="p_update_file_url_changed">Rom Update URL set back to default</string>
+	<string name="p_update_file_url_title">Servidor de actualización de ROMs</string>
+	<string name="p_update_file_url_summary">Cambiar el servidor de actualización de ROMs</string>
+	<string name="p_update_file_url_changed">Restaurar el servidor de actualizaciones de ROMs por defecto</string>
 
-	<string name="p_update_file_url_def_title">Reset Rom Update Server</string>
-	<string name="p_update_file_url_def_summary">Reset the location of the Rom Update Server back to default</string>
+	<string name="p_update_file_url_def_title">Restaurar servidorde actualizaciones de ROMs</string>
+	<string name="p_update_file_url_def_summary">Restaurar el servidor de actualizaciones de ROMs por defecto</string>
 
-	<string name="p_update_file_url_qr_title">Scan Barcode</string>
-	<string name="p_update_file_url_qr_summary">Scan QR Code for Rom Update File URL</string>
-	<string name="p_update_file_changed_toast">Rom Update File URL: </string>
+	<string name="p_update_file_url_qr_title">Escanear código de barras</string>
+	<string name="p_update_file_url_qr_summary">Escanear un código de barras en busca de un una dirección URL de una actualización ROM</string>
+	<string name="p_update_file_changed_toast">Dirección de una actualización: </string>
 
-	<string name="p_vibrate_title">Vibrate</string>
-	<string name="p_vibrate_summary">Vibrate on Notifications</string>
+	<string name="p_vibrate_title">Vibrar</string>
+	<string name="p_vibrate_summary">Vibrar en las notificaciones</string>
 
-	<string name="p_notifications_title">Notifications</string>
-	<string name="p_notifications_summary">Enable/Disable Notifications</string>
+	<string name="p_notifications_title">Notificaciones</string>
+	<string name="p_notifications_summary">Habilita/Deshabilita notificaciones</string>
 
-	<string name="p_progress_update_frequency_title">Progress Update Frequency</string>
-	<string name="p_progress_update_frequency_summary">Higher Values --> Less updating\nLower Values --> More updating</string>
+	<string name="p_progress_update_frequency_title">Frecuencia de actualización</string>
+	<string name="p_progress_update_frequency_summary">Valores altos --> Menos frecuencia\nValores bajos --> Mas frecuencia</string>
 
-	<string name="p_progress_update_freq_def_title">Reset Update Frequency</string>
-	<string name="p_progress_update_freq_def_summary">Reset the Update Frequency of the Downloaddialog/Notificationbar</string>
-	<string name="p_progress_update_freq_def_toast">Progress Update Frequency set back to default</string>
+	<string name="p_progress_update_freq_def_title">Restaurar la frecuencia de actualización</string>
+	<string name="p_progress_update_freq_def_summary">Restaurar la frecuencia de actualización</string>
+	<string name="p_progress_update_freq_def_toast">Frecuencia de actualización restaurada a su valor por defecto</string>
 	
-	<string name="p_invalid_url">Entered URL is not valid! Please try again.</string>
+	<string name="p_invalid_url">La URL proporcionada no es válida! Inténtalo de nuevo.</string>
 	
-	<string name="p_theme_file_title">themes.theme Path</string>
-	<string name="p_theme_file_summary">Change the Path of the themes.theme File</string>
+	<string name="p_theme_file_title">ruta a themes.theme</string>
+	<string name="p_theme_file_summary">Cambiar la ruta al archivo themes.theme</string>
 	
-	<string name="p_theme_file_def_title">Reset themes.theme File</string>
-	<string name="p_theme_file_def_summary">Set the Path of themes.theme back to default</string>
-	<string name="p_theme_file_def_toast">themes.theme set back to default</string>
+	<string name="p_theme_file_def_title">Restaurar el arvhivo themes.theme</string>
+	<string name="p_theme_file_def_summary">Restaurar la ruta al archivo themes.theme</string>
+	<string name="p_theme_file_def_toast">Restaurado el archivo themes.theme por defecto</string>
 	
-	<string name="p_notifications_screen_title">Notifications</string>
-	<string name="p_notifications_screen_summary">Set Notification Settings</string>
+	<string name="p_notifications_screen_title">Notificaciones</string>
+	<string name="p_notifications_screen_summary">Ajustes de notificación</string>
 	
-	<string name="p_rom_screen_title">Rom Update Settings</string>
-	<string name="p_rom_screen_summary">Set Settings for Rom Updates</string>
+	<string name="p_rom_screen_title">Ajustes de actualización ROM</string>
+	<string name="p_rom_screen_summary">Personaliza los ajustes de actualización ROM</string>
 	
-	<string name="p_theme_screen_title">Theme Update Settings</string>
-	<string name="p_theme_screen_summary">Set Settings for Theme Updates</string>
+	<string name="p_theme_screen_title">Ajustes de actualización de temas</string>
+	<string name="p_theme_screen_summary">Personaliza los ajustes de actualización de temas</string>
 	
-	<string name="p_barcode_scan_failure">There was an error while scanning the Barcode</string>
+	<string name="p_barcode_scan_failure">Se ha producido un error escaneando el código de barras</string>
 	
-	<string name="p_advanced_screen_title">Advanced Settings</string>
-	<string name="p_advanced_screen_summary">Set Advanced Settings</string>
+	<string name="p_advanced_screen_title">Ajustes avanzados</string>
+	<string name="p_advanced_screen_summary">Personaliza los ajustes avanzados</string>
 	
-	<string name="p_update_folder_title">Update Folder</string>
-	<string name="p_update_folder_summary">Set the update Folder\nSet blank for root-Directory</string>
+	<string name="p_update_folder_title">Carpeta de actualizaciones</string>
+	<string name="p_update_folder_summary">Configure la carpeta de actualizaciones\nDejar en blanco para utilizar la carpeta raiz</string>
 	
-	<string name="p_update_folder_def_title">Reset Update Folder</string>
-	<string name="p_update_folder_def_summary">Set the update Folder back to default</string>
-	<string name="p_update_folder_def_toast">Update Folder set back to default</string>
-	<string name="p_update_folder_error">Error on Setting the UpdateFolder</string>
+	<string name="p_update_folder_def_title">Restaurar la carpeta de actualizaciones</string>
+	<string name="p_update_folder_def_summary">Restaurar la carpeta de actualizaciones por defecto</string>
+	<string name="p_update_folder_def_toast">Carpeta de actualizaciones restaurada</string>
+	<string name="p_update_folder_error">Error modificando la carpeta de actualizaciones</string>
 	
-	<string name="p_theme_list_title">Manage Theme Servers</string>
-	<string name="p_theme_list_summary">Add, Edit, Delete Theme Servers</string>
+	<string name="p_theme_list_title">Gestionar servidores de temas</string>
+	<string name="p_theme_list_summary">Añadir, editar y borrar servidores de temas</string>
 	
-	<string name="p_theme_list_context_menu_header">Choose Action</string>
+	<string name="p_theme_list_context_menu_header">Elige una opción</string>
 	
-	<string name="p_theme_list_new_name">Theme Name:</string>
+	<string name="p_theme_list_new_name">Nombre del tema:</string>
 	<string name="p_theme_list_new_uri">URL:</string>
-	<string name="p_theme_list_new_enabled">Enabled:</string>
-	<string name="p_theme_list_new_barcode">Scan barcode</string>
-	<string name="p_theme_list_new_save">Save</string>
-	<string name="p_theme_list_new_cancel">Cancel</string>
+	<string name="p_theme_list_new_enabled">Habilitado:</string>
+	<string name="p_theme_list_new_barcode">Escanear código de barras</string>
+	<string name="p_theme_list_new_save">Guardar</string>
+	<string name="p_theme_list_new_cancel">Cancelar</string>
 	
 	<!--  new Strings -->
-	<string name="alert_old_version_title">Old Version</string>
-	<string name="alert_old_version_summary">You are running an old Rom-Version.
-	To use the Updater, you have to upgrade manually.
-	Click the open Browser Button below, to open up the Instructions</string>
+	<string name="alert_old_version_title">Versión obsoleta</string>
+	<string name="alert_old_version_summary">Estás utilizando una ROM obsoleta.
+	Para usar el actualizador deberas actualizar tu ROM manualmente.
+	Clica en el boton mas abajo para abrir las instrucciones de actualización.</string>
 	<string name="alert_old_version_ok">Ok</string>
-	<string name="alert_old_version_browser">Open Browser</string>
+	<string name="alert_old_version_browser">Instrucciones</string>
 	<string name="screenshot_button_theme_text">Screenshots</string>
-	<string name="theme_download_exception">There was an error downloading Theme: </string>
-	<string name="theme_submenu_delete">Delete</string>
-	<string name="theme_submenu_enable">Enable</string>
-	<string name="theme_submenu_disable">Disable</string>
-	<string name="download_resume_not_supported">Resume not supported by Server</string>
-	<string name="download_resume_download">Resuming Download</string>
-	<string name="download_not_enough_space">Not Enough Space on SDCard to download the Udpate</string>
-	<string name="config_themes_nosupport">This Updater was built without Screenshotsupport</string>
-	<string name="p_debug_output_title">Debug Output</string>
-	<string name="p_debug_output_summary">Show Debug Output in logcat</string>
-	<string name="p_debug_output_changed">Please restart the App for the changes to take effect</string>
-	<string name="sdcard_not_avail">No SDCard present or Phone Mounted to PC. You need a writeable SDCard to procedd. The App will now exit</string>
+	<string name="theme_download_exception">Ha habido un error descargando el tema: </string>
+	<string name="theme_submenu_delete">Borrar</string>
+	<string name="theme_submenu_enable">Habilitar</string>
+	<string name="theme_submenu_disable">Deshabilitar</string>
+	<string name="download_resume_not_supported">No es posible continuar porque el servidor no lo soporta</string>
+	<string name="download_resume_download">Continuando la descarga</string>
+	<string name="download_not_enough_space">No hay espacio suficiente para la descarga en la tarjeta SD</string>
+	<string name="config_themes_nosupport">Este actualizador no tiene soporte para screenshots</string>
+	<string name="p_debug_output_title">Salida debug</string>
+	<string name="p_debug_output_summary">Mostrar salida debug en logcat</string>
+	<string name="p_debug_output_changed">Reinicia la aplicacion para que los cambios surtan efecto</string>
+	<string name="sdcard_not_avail">No hay una tarjeta SD disponible. Necesitas una tarjeta SD con permisos de escritura. La aplicaion se cerrará ahora</string>
 </resources>
