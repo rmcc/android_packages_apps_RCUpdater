@@ -74,8 +74,8 @@ MOLIM MANUALNO PONOVNO POKRENITE U OPORAVAK TE PRIJE PRIMJENE NADOGRADNJE SAPRAV
 
 	<string name="toast_uninstall_old_Version">Morate izbrisati staru verziju aplikacije za nastavak!</string>
 
-	<string name="stable_description"> = Stabilno</string>
-	<string name="experimental_description"> = Eksperimentalno</string>
+	<string name="stable_description">Stabilno</string>
+	<string name="experimental_description">Eksperimentalno</string>
 
 	<string name="changelog_progress_title">Molim pricekajte ...</string>
 	<string name="changelog_progress_body">Pokusavam preuzeti changelog.xml</string>

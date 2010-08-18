@@ -74,8 +74,8 @@ WENN SIE EIN BACKUP MACHEN WOLLEN, BOOTEN SIE BITTE MANUELL IN DEN RECOVERY MODU
 
 	<string name="toast_uninstall_old_Version">Sie müssen die alte Version von CM-Updater deinstallieren, um die neue Version nutzen zu können!</string>
 
-	<string name="stable_description"> = Stable</string>
-	<string name="experimental_description"> = Experimentell</string>
+	<string name="stable_description">Stable</string>
+	<string name="experimental_description">Experimentell</string>
 
 	<string name="changelog_progress_title">Bitte warten ...</string>
 	<string name="changelog_progress_body">Versuche die Datei changelog.xml herunterzuladen</string>

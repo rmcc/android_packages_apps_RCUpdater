@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- .ui.* Strings -->
+	<string name="apply_now_button_text">Instalar ahora</string>
+	<string name="apply_later_button_text">Instalar más tarde</string>
+	<string name="apply_update_button_text">Instalar actualización</string>
+	<string name="apply_title_textview_text">{0} está lista para ser instalada</string>
+	<string name="apply_subtitle_textview_text">Notas:</string>
+	<string name="apply_unable_to_reboot_toast">Error al reiniciar en modo recovery</string>
+	<string name="apply_trying_to_get_root_access">Intentando conseguir acceso superusuario para reiniciar en modo recovery</string>
+
+	<string name="available_updates_text">Por favor selecciona la ROM a descargar:</string>
+	<string name="choose_available_update_text">Descargar</string>
+	<string name="no_updates_found_instructions">No hay ROMs.\nPulsa \'Comprobar ahora\' para buscar actualizaciones manualmente</string>
+	<string name="no_themes_found_instructions">No hay apariencias.\nPulsa \'Comprobar ahora\' para buscar actualizaciones manualmente</string>
+	<string name="downloaded_update_found_text">Actualizaciones encontradas en la carpeta de actualizaciones:</string>
+	<string name="checking_for_updates">Buscando actualizaciones</string>
+	<string name="downloading_update">Descargando actualización</string>
+	<string name="sdcard_is_not_present_dialog_body">Necesitas una tarjeta SD con permisos de escritura para descargar esta actualización</string>
+	<string name="sdcard_is_not_present_dialog_title">No se ha encontrado ninguna tarjeta SD</string>
+	<string name="sdcard_is_not_present_dialog_ok_button">Ok</string>
+	<string name="current_version_text">Versión actual: {0}</string>
+	<string name="delete_updates_text">Borrar actualizaciones</string>
+	<string name="delete_updates_success_message">Carpeta de actualizaciones borrada</string>
+	<string name="delete_updates_failure_message">Se ha producido un error borrando la carpeta de actualizaciones</string>
+	<string name="delete_updates_noFolder_message">Carpeta de actualizaciones no encontrada</string>
+
+	<string name="apply_update_dialog_title">Confirmación</string>
+	<string name="apply_update_dialog_text">Estás a punto de actualizar a {0}.\nSi presionas actualizar, el teléfono se reiniciará en modo recovery para instalar la actualización.</string>
+	<string name="apply_update_dialog_update_button">Actualizar</string>
+	<string name="apply_update_dialog_backup_and_update_button">Backup &amp; Instalación</string>
+	<string name="apply_update_dialog_cancel_button">Cancelar</string>
+	
+	<string name="no_updates_no_mod_text">MOD no soportado (Versión {0}).</string>
+	<string name="check_now_button_text">Comprobar ahora</string>
+	
+	<string name="menu_check_now">Comprobar ahora</string>
+	<string name="menu_config">Configuración</string>
+	<string name="menu_about">About</string>
+	<string name="menu_changelog">Changelog</string>
+	<string name="menu_add_theme">Añadir servidor de temas</string>
+	<string name="menu_update_featured">Actualiza los servidores de temas destacados</string>
+	<string name="menu_edit_theme">Editar servidor de temas</string>
+	<string name="menu_delete_theme">Borra servidor de temas</string>
+	<string name="menu_enable_theme">Habilita servidor de temas</string>
+	<string name="menu_disable_theme">Deshabilita servidor de temas</string>
+	<string name="menu_delete_all_themes">Borra todos los servidores de temas</string>
+	<string name="menu_delete_all_featured_themes">Borra todos los servidores de temas destacados</string>
+	<string name="menu_disable_all_themes">Deshabilita todos los servidores de temas</string>
+	<string name="menu_disable_all_featured_themes">Deshabilita todos los servidores de temas destacados</string>
+	<string name="menu_enable_all_themes">Habilita todos los servidores de temas</string>
+	<string name="menu_enable_all_featured_themes">Habilita todos los servidores de temas destacados</string>
+	
+	<string name="cancel_download_buton_text">Parar descarga</string>
+	<string name="confirm_download_cancelation_dialog_message">¿Estás seguro de que quieres cancelar la descarga? Puedes continuar el proceso mas tarde descargando la misma actualización otra vez.</string>
+	<string name="confirm_download_cancelation_dialog_yes">Si</string>
+	<string name="confirm_download_cancelation_dialog_no">No</string>
+	<string name="download_canceled_toast_message">Descarga cancelada</string>
+
+	<string name="verify_and_apply_dialog_title">Verificando</string>
+	<string name="verify_and_apply_dialog_message">Verificando las firmas MD5</string>
+
+	<string name="apply_existing_update_md5error_message">Error en las firmas MD5</string>
+
+	<string name="apply_upload_info_message">ESTA ACTUALIZACIÓN REINICIARÁ EL TELEFONO SI ACEPTAS INSTALARLA.
+POR FAVOR, REINICIA EN MODO RECOVERY DE FORMA MANUAL *ANTES* DE INSTALAR ESTA ACTUALIZACIÓN EN CASO DE QUE DESEES HACER UNA COPIA DE SEGURIDAD.</string>
+
+	<string name="last_update_check_text">Última comprobación</string>
+	<string name="overwrite_update_title">Actualización ya descargada</string>
+	<string name="overwrite_update_summary">La actualización ya existe en tu dispositivo.\n¿Deseas sobreescribirla?</string>
+	<string name="overwrite_update_positive">Sí</string>
+	<string name="overwrite_update_negative">No</string>
+
+	<string name="no_md5_found_title">Error MD5</string>
+	<string name="no_md5_found_summary">No se ha encontrado las firmas MD5 correspondientes a la actualización.\n¿Quieres instalar la actualización sin comprobarla?</string>
+	<string name="no_md5_found_positive">Instalar</string>
+	<string name="no_md5_found_negative">Cancelar</string>
+
+	<string name="notification_tickertext">Descargando actualización</string>
+	<string name="notification_finished">Descarga terminada</string>
+
+	<string name="toast_uninstall_old_Version">Debes desinstalar cualquier versión anterior de la applicación para continuar!</string>
+
+	<string name="stable_description">Estable</string>
+	<string name="experimental_description">Experimental</string>
+
+	<string name="changelog_progress_title">Espera por favor...</string>
+	<string name="changelog_progress_body">Intentando descargar changelog.xml</string>
+
+	<string name="changelog_button_text">Changelog de la Rom seleccionada</string>
+	<string name="no_changelog_found">No hay changelog</string>
+
+	<string name="changelog_title_rom">Actualizar changelog</string>
+	<string name="changelog_title_app">Changelog de la applicación</string>
+	<string name="changelog_title_theme">Changelog del tema</string>
+
+	<string name="featured_themes_progress_title">Espera por favor...</string>
+	<string name="featured_themes_progress_body">Intentando descargar la lista de servidores de temas destacados</string>
+	<string name="featured_themes_finished_toast">Lista de servidores de temas destacados actualizada</string>
+
+	<string name="true_string">Sí</string>
+	<string name="false_string">No</string>
+	
+	<string name="md5_check_cancelled">Comprobación MD5 cancelada</string>
+	
+	<string name="button_available_updates">Roms</string>
+	<string name="button_available_themes">Temas</string>
+	<string name="button_existing_updates">Descargado</string>
+	
+	<string name="no_existing_updates_found">No hay actualizaciones descargadas</string>
+
+	<string name="available_themes_text">Selecciona el tema a descargar:</string>
+	<string name="choose_available_theme_text">Descargar</string>
+	<string name="changelog_button_theme_text">Changelog del tema seleccionado</string>
+
+	<string name="title_running">ejecutandose en</string>
+	
+	<string name="no_updatecheck_executed">No se ha comprobado la existencia de actualizaciones</string>
+	
+	<string name="no_theme_update_server_configured">No se ha configurado ningun servidor de temas.\nSi quieres usar temas ve a configuración y añade un servidor.</string>
+
+	<string name="delete_updates_root_folder_message">No puedes borrar la carpeta raiz.\nPor favor elimina las actualizaciones una a una.</string>
+
+	<string name="about_dialog_title">About</string>
+	
+	<string name="barcode_scan_no_result">Sin resultados. Inténtalo de nuevo.</string>
+	
+	<string name="theme_list_long_press">Manten pulsado un item para ver las opciones.</string>
+	<string name="theme_list_no_themes">No hay servidores de temas. Abre el menun para añadir uno o para actualizar la lista de servidores destacados</string>
+	<string name="theme_list_delete_error">Se ha producido un error eliminando el servidor de temas</string>
+	
+	<string name="theme_list_new_wrong_uri">La URL proporcionada no es válida. Por favor inténtalo de nuevo</string>
+	<string name="theme_list_new_wrong_name">Por favor introduce un nombre.</string>
+	
+	<string name="featured_themes_dialog_title">Temas destacados</string>
+	<string name="featured_themes_dialog_summary">¿Seguro que deseas actualizar la lista de servidores de temas destacados?\nTus servidores personalizados no se verán afectados.</string>
+	<string name="featured_themes_dialog_pos">Sí</string>
+	<string name="featured_themes_dialog_neg">No</string>
+
+	<!-- .service.* Strings -->
+	<string name="no_updates_found">No hay nuevas actualizaciones</string>
+	<string name="not_new_updates_found_ticker">Nuevas actualizaciones disponibles!</string>
+	<string name="not_new_updates_found_title">Nuevas actualizaciones disponibles!</string>
+	<string name="exception_while_downloading">Se ha producido un error intentando descargar la actualización</string>
+
+	<string name="not_update_check_error_ticker">Comprobación de actualizaciones fallida</string>
+	<string name="not_update_check_error_title">No es posible comprobar la lista de actualizaciones</string>
+
+	<string name="not_update_download_error_ticker">Se ha producido un error intentando descargar la actualización</string>
+	<string name="not_update_download_error_title">Se ha producido un error intentando descargar la actualización</string>
+
+	<string name="not_update_downloaded_ticker">Actualización descargada</string>
+	<string name="not_update_downloaded_title">Actualización descargada</string>
+	<string name="not_update_downloaded_body">{0} está lista para ser descargada</string>
+
+	<string name="download_info_filename">Nombre de archivo: </string>
+	<string name="download_info_mirror">Servidor: </string>
+	<string name="download_info_downloading">Descargando...</string>
+	<string name="download_info_speed">Velocidad: </string>
+	<string name="download_info_remaining_time">Tiempo restante: </string>
+
+	<string name="confirm_delete_update_folder_dialog_message">Borrar la carpeta de actualizaciones?</string>
+	<string name="confirm_delete_update_folder_dialog_yes">Borrar todas las actualizaciones</string>
+	<string name="confirm_delete_update_folder_dialog_neutral">Borrar la actualización seleccionada</string>
+	<string name="confirm_delete_update_folder_dialog_no">Cancelar</string>
+	<string name="delete_single_update_success_message">Actualización {0} borrada</string>    
+	<string name="minutes">min</string>
+	<string name="seconds">seg</string>
+	
+	<string name="unable_to_download_file">Imposible descargar actualización de ningún servidor</string>
+	<string name="md5_verification_failed">Verificación MD5 fallida</string>
+
+	<!-- Preferences Strings -->
+	<string name="p_update_check_freq_title">Frecuencia de comprobación de actualizaciones</string>
+	<string name="p_update_check_freq_summary">Selecciona la frecuencia de comprobación de actualizaciones</string>
+
+	<string name="p_display_older_rom_versions_title">Mostrar todas las actualizaciones (ROM)</string>
+	<string name="p_display_older_rom_versions_summary">Mostrar todas las actualizaciones, incluyendo versiones viejas (ROM)</string>
+	<string name="p_display_older_rom_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
+
+	<string name="p_allow_experimental_rom_versions_title">Mostrar ROMs experimentales</string>
+	<string name="p_allow_experimental_rom_versions_summary">Mostrar las actualizaciónes de ROMs que son experimentales (No estables)</string>
+	<string name="p_allow_experimental_rom_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
+
+	<string name="p_display_older_theme_versions_title">Mostrar todas las actualizaciones (Temas)</string>
+	<string name="p_display_older_theme_versions_summary">Mostrar todas las actualizaciones, incluyendo versiones viejas (Temas)</string>
+	<string name="p_display_older_theme_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
+
+	<string name="p_allow_experimental_theme_versions_title">Mostrar temas experimentales</string>
+	<string name="p_allow_experimental_theme_versions_summary">Mostrar las actualizaciónes de temas que son experimentales (No estables)</string>
+	<string name="p_allow_experimental_theme_versions_changed">Por favor comprueba las actualizaciones de nuevo para actualizar la lista de actualizaciones disponibles</string>
+
+	<string name="p_do_nandroid_backup_title">Copia de seguridad Nandroid</string>
+	<string name="p_do_nandroid_backup_summary">¿Desea realizar una copia de seguridad Nandroid antes de instalar la actualización?</string>
+
+	<string name="p_notification_ringtone_title">Sonido de notificación</string>
+	<string name="p_notification_ringtone_summary">Selecciona un tono para las notificaciones</string>
+
+	<string name="p_update_file_url_title">Servidor de actualización de ROMs</string>
+	<string name="p_update_file_url_summary">Cambiar el servidor de actualización de ROMs</string>
+	<string name="p_update_file_url_changed">Restaurar el servidor de actualizaciones de ROMs por defecto</string>
+
+	<string name="p_update_file_url_def_title">Restaurar servidorde actualizaciones de ROMs</string>
+	<string name="p_update_file_url_def_summary">Restaurar el servidor de actualizaciones de ROMs por defecto</string>
+
+	<string name="p_update_file_url_qr_title">Escanear código de barras</string>
+	<string name="p_update_file_url_qr_summary">Escanear un código de barras en busca de un una dirección URL de una actualización ROM</string>
+	<string name="p_update_file_changed_toast">Dirección de una actualización: </string>
+
+	<string name="p_vibrate_title">Vibrar</string>
+	<string name="p_vibrate_summary">Vibrar en las notificaciones</string>
+
+	<string name="p_notifications_title">Notificaciones</string>
+	<string name="p_notifications_summary">Habilita/Deshabilita notificaciones</string>
+
+	<string name="p_progress_update_frequency_title">Frecuencia de actualización</string>
+	<string name="p_progress_update_frequency_summary">Valores altos --> Menos frecuencia\nValores bajos --> Mas frecuencia</string>
+
+	<string name="p_progress_update_freq_def_title">Restaurar la frecuencia de actualización</string>
+	<string name="p_progress_update_freq_def_summary">Restaurar la frecuencia de actualización</string>
+	<string name="p_progress_update_freq_def_toast">Frecuencia de actualización restaurada a su valor por defecto</string>
+	
+	<string name="p_invalid_url">La URL proporcionada no es válida! Inténtalo de nuevo.</string>
+	
+	<string name="p_theme_file_title">ruta a themes.theme</string>
+	<string name="p_theme_file_summary">Cambiar la ruta al archivo themes.theme</string>
+	
+	<string name="p_theme_file_def_title">Restaurar el arvhivo themes.theme</string>
+	<string name="p_theme_file_def_summary">Restaurar la ruta al archivo themes.theme</string>
+	<string name="p_theme_file_def_toast">Restaurado el archivo themes.theme por defecto</string>
+	
+	<string name="p_notifications_screen_title">Notificaciones</string>
+	<string name="p_notifications_screen_summary">Ajustes de notificación</string>
+	
+	<string name="p_rom_screen_title">Ajustes de actualización ROM</string>
+	<string name="p_rom_screen_summary">Personaliza los ajustes de actualización ROM</string>
+	
+	<string name="p_theme_screen_title">Ajustes de actualización de temas</string>
+	<string name="p_theme_screen_summary">Personaliza los ajustes de actualización de temas</string>
+	
+	<string name="p_barcode_scan_failure">Se ha producido un error escaneando el código de barras</string>
+	
+	<string name="p_advanced_screen_title">Ajustes avanzados</string>
+	<string name="p_advanced_screen_summary">Personaliza los ajustes avanzados</string>
+	
+	<string name="p_update_folder_title">Carpeta de actualizaciones</string>
+	<string name="p_update_folder_summary">Configure la carpeta de actualizaciones\nDejar en blanco para utilizar la carpeta raiz</string>
+	
+	<string name="p_update_folder_def_title">Restaurar la carpeta de actualizaciones</string>
+	<string name="p_update_folder_def_summary">Restaurar la carpeta de actualizaciones por defecto</string>
+	<string name="p_update_folder_def_toast">Carpeta de actualizaciones restaurada</string>
+	<string name="p_update_folder_error">Error modificando la carpeta de actualizaciones</string>
+	
+	<string name="p_theme_list_title">Gestionar servidores de temas</string>
+	<string name="p_theme_list_summary">Añadir, editar y borrar servidores de temas</string>
+	
+	<string name="p_theme_list_context_menu_header">Elige una opción</string>
+	
+	<string name="p_theme_list_new_name">Nombre del tema:</string>
+	<string name="p_theme_list_new_uri">URL:</string>
+	<string name="p_theme_list_new_enabled">Habilitado:</string>
+	<string name="p_theme_list_new_barcode">Escanear código de barras</string>
+	<string name="p_theme_list_new_save">Guardar</string>
+	<string name="p_theme_list_new_cancel">Cancelar</string>
+	
+	<!--  new Strings -->
+	<string name="alert_old_version_title">Versión obsoleta</string>
+	<string name="alert_old_version_summary">Estás utilizando una ROM obsoleta.
+	Para usar el actualizador deberas actualizar tu ROM manualmente.
+	Clica en el boton mas abajo para abrir las instrucciones de actualización.</string>
+	<string name="alert_old_version_ok">Ok</string>
+	<string name="alert_old_version_browser">Instrucciones</string>
+	<string name="screenshot_button_theme_text">Screenshots</string>
+	<string name="theme_download_exception">Ha habido un error descargando el tema: </string>
+	<string name="theme_submenu_delete">Borrar</string>
+	<string name="theme_submenu_enable">Habilitar</string>
+	<string name="theme_submenu_disable">Deshabilitar</string>
+	<string name="download_resume_not_supported">No es posible continuar porque el servidor no lo soporta</string>
+	<string name="download_resume_download">Continuando la descarga</string>
+	<string name="download_not_enough_space">No hay espacio suficiente para la descarga en la tarjeta SD</string>
+	<string name="config_themes_nosupport">Este actualizador no tiene soporte para screenshots</string>
+	<string name="p_debug_output_title">Salida debug</string>
+	<string name="p_debug_output_summary">Mostrar salida debug en logcat</string>
+	<string name="p_debug_output_changed">Reinicia la aplicacion para que los cambios surtan efecto</string>
+	<string name="sdcard_not_avail">No hay una tarjeta SD disponible. Necesitas una tarjeta SD con permisos de escritura. La aplicaion se cerrará ahora</string>
+</resources>

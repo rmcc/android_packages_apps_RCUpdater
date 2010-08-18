@@ -81,8 +81,8 @@
    
    <string name="toast_uninstall_old_Version">Необходимо удалить старую версию этой программы!</string>
    
-   <string name="stable_description">=Отлаженная</string>
-   <string name="experimental_description">=Опытная</string>
+   <string name="stable_description">Отлаженная</string>
+   <string name="experimental_description">Опытная</string>
    
    <string name="changelog_progress_title">Загрузка ...</string>
    <string name="changelog_progress_body">Загружается файл changelog.xml</string>
