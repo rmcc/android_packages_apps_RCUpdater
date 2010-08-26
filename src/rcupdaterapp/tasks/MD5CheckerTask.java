@@ -78,6 +78,7 @@ public class MD5CheckerTask extends AsyncTask<File, Void, Boolean> {
         if (result) {
 			Intent i = new Intent(mCtx, ApplyUpdateActivity.class)
                     .putExtra(Constants.KEY_UPDATE_INFO, (Serializable) ui);
+			i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 			mCtx.startActivity(i);
         } else {
 			Toast.makeText(mCtx, R.string.apply_existing_update_md5error_message, Toast.LENGTH_LONG).show();
