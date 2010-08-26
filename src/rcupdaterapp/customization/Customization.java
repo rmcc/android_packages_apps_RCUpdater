@@ -16,7 +16,7 @@ public class Customization {
 	//Filename for Instance save
     public static final String STORED_STATE_FILENAME = "rcupdater.state";
 	//Android Board type
-    public static final String BOARD = "ro.board.platform";
+    public static final String BOARD = "ro.product.board";
 	//Name of the Current Rom
 	public static final String SYS_PROP_MOD_VERSION = "ro.modversion";
 	//Screenshotsupport?
