@@ -205,7 +205,7 @@
 					android:layout_height="wrap_content"
 					android:text="@string/delete_updates_text"
 				    style="@style/TextAppearance.Button"
-                        android:drawableLeft="@*android:drawable/ic_menu_refresh"
+                        android:drawableLeft="@android:drawable/ic_menu_delete"
                         android:onClick="ListenerDeleteUpdatesButton"/>
 			</LinearLayout>
 		</ScrollView>
