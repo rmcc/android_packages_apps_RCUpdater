@@ -5,7 +5,8 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="@drawable/background"
-    android:gravity="center">
+    android:gravity="center"
+    android:keepScreenOn="true">
     <LinearLayout
 	    android:orientation="horizontal"
 	    android:layout_width="fill_parent"
