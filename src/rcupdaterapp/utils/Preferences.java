@@ -208,10 +208,9 @@ public class Preferences {
 	}
 
     public boolean doNandroidBackup() {
-		//tempbool = mPrefs.getBoolean(mRes.getString(R.string.PREF_DO_NANDROID_BACKUP), Boolean.valueOf(mRes.getString(R.string.PREF_DO_NANDROID_BACKUP_DEF_VALUE)));
-		//Log.d(TAG, "Do Nandroid Backup: " + tempbool);
-		//return tempbool;
-		return false;
+		tempbool = mPrefs.getBoolean(mRes.getString(R.string.PREF_DO_NANDROID_BACKUP), Boolean.valueOf(mRes.getString(R.string.PREF_DO_NANDROID_BACKUP_DEF_VALUE)));
+		Log.d(TAG, "Do Nandroid Backup: " + tempbool);
+		return tempbool;
 	}
 
 	//Advanced Properties
