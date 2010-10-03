@@ -39,7 +39,7 @@
             android:key="doNandroidBackup"
             android:title="@string/p_do_nandroid_backup_title"
             android:summary="@string/p_do_nandroid_backup_summary"
-            android:defaultValue="@string/p_do_nandroid_backup_def_value" />
+            android:defaultValue="@string/PREF_DO_NANDROID_BACKUP_DEF_VALUE" />
     <!-- Rom -->
     <PreferenceScreen
             android:title="@string/p_rom_screen_title"
